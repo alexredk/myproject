@@ -1,0 +1,11 @@
+body {
+    background-color: seagreen;
+}
+h1 {font-size:  60px;font-style: initial;}
+h2 {font-size: 48px;font-style: initial;}
+li {font-size: 22px;
+color: cyan;}
+a {color: rgba(0, 0, 0, 0.795);text-decoration: none;}
+img {margin: auto;display: block;border-radius: 10px;width: 700px; height: 400px;}
+p {font-size: 18px;font-style: inherit;}
+video {width: 800px;height: 600px;display: block;margin: auto;}
